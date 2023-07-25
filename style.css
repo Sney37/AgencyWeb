@@ -1,0 +1,21 @@
+.mycard-img{
+    height: 100vh;
+}
+.bg-img{
+    background-image: url('./map-image.png');
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    color: white;
+}
+.rounded-circle{
+        border-radius: 50%;
+        border-top-left-radius: 50%;
+        border-top-right-radius: 50%;
+        border-bottom-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+}
+.team-img{
+    width: 50%;
+    height: 50%;
+}
